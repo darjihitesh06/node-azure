@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/deb668db-dc1b-4043-ac22-615fe2b87be9/resourceGroups/appsvc_linux_westus2/providers/Microsoft.Web/sites/azure-mi-node",
+    "appService.deploySubpath": "."
+}
